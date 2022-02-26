@@ -1,0 +1,26 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "start": "webpack server",
+    "sass": "sass -w scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loft897/Typing-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loft897/Typing-Game/issues"
+  },
+  "homepage": "https://github.com/loft897/Typing-Game#readme",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
